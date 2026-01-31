@@ -3,13 +3,13 @@
 **Step 0:**
 The Project Lead should fork this repository and share the forked repository link with the NVIDIA judges in a DM on discord (`Monica-NVIDIA`, `Linsey-NV Mentor`, and `Iman`).  
 
-**Early Submission (To obtain access to GPUs with Brev credits):**
-
+**Phase 1 Submission (Due 10pm eastern Sat Jan 31):**
+(To be judged to obtain access to GPUs with Brev credits)
 * [ ] **Tutorial Notebook:** Completed `labs_tutorial.ipynb` including your "Self-Validation" section.
 * [ ] **PRD:** `PRD.md` defining your plan.  See [Milestone 1 in the challenge description](LABS-challenge-Phase1.md) and the [PRD-template.md](PRD-template.md) file.
 * [ ] **Notify the judges in discord:** DM `Monica-NVIDIA`, `Linsey-NV Mentor`, and `Iman` that your phase 1 deliverables are ready to be judged.   
 
-**Final Submission (Due 10am eastern Sun Feb 1):**
+**Phase 2 Submission (Due 10am eastern Sun Feb 1):**
 
 * [ ] **Final Code:** Notebooks and scripts for the Milestone 3 implementation.
 * [ ] **Test Suite:** `tests.py` demonstrating >60% coverage.
