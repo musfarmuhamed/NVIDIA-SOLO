@@ -1,5 +1,7 @@
 ## Deliverables Checklist
 
+Please add all deliverables to the `teams-submissions` directory of your forked repository.
+
 **Step 0:**
 The Project Lead should fork this repository and share the forked repository link with the NVIDIA judges in a DM on discord (`Monica-NVIDIA`, `Linsey-NV Mentor`, and `Iman`).  
 
